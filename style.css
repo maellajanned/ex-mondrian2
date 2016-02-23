@@ -1,0 +1,44 @@
+.zoom div div div {
+text-align:center;
+}
+.zoom div div div {
+width:100px;
+height:136px;
+}
+.zoom div:hover {
+width:100px;
+height:200px;
+position: relative;
+}
+
+.grey{
+  background-color: grey;
+   height:50px;
+  border-left: 5px solid black;
+
+  }
+  .white{
+    background-color: white;
+     height:50px;
+    border-left: 5px solid black;
+}
+    .yellow{
+      background-color: yellow;
+       height:50px;
+      border-left: 5px solid black;
+    }
+      .blue{
+        background-color: blue;
+         height:50px;
+        border-left: 5px solid black;
+      }
+        .red{
+          height:50px;
+          background-color:red;
+          border-left: 5px solid black;}
+        .row{height: 50px;}
+
+    .border-bottom{border-bottom: 5px solid black;}
+    .zoom {
+height:400px;
+}
